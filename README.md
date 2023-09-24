@@ -1,4 +1,4 @@
-# Audiophile-Insights  
+# Audiophile-Insights   
 
 Welcome to Audiophile-Insights, a comprehensive project for analyzing and predicting global headphone sales using machine learning techniques. This repository contains all the code, data, and documentation related to this project.
 
